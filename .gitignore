@@ -16,5 +16,6 @@ dist/
 
 .env
 
+dfx.json
 package-lock.json
-packagejson.backup
+package.json.backup
